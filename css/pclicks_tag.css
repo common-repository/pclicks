@@ -1,0 +1,40 @@
+.pcid{	
+	color:red;
+}
+
+.pcidinput{
+	display:block;
+}
+
+.postbox-container .meta-box-sortables {
+	min-height:50px;
+}
+
+div.inside{
+	padding-left:10px;
+	margin-top:13px;
+	margin-bottom:13px;	
+}
+
+.postbox{
+	min-width:800px;
+}
+
+.wrap div.updated, .wrap div.error {
+	width:485px;	
+	padding-top:10px;	
+	padding-bottom:10px;
+}
+
+.pcidinput input{
+	margin-left: 65px;
+}
+
+#explanation{
+  border:1px solid rgb(204, 204, 204);
+  padding: 5px 5px 5px 5px; 
+	display:none;
+	font-size:11px;
+	margin-left:103px;
+	margin-right:13px;	
+}

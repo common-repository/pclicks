@@ -1,0 +1,35 @@
+div#pclicks-settings .pcid { color:red; }
+
+div#pclicks-settings .pcidinput { display:block; }
+
+div#pclicks-settings .postbox-container { width: 100%; }
+div#pclicks-settings .postbox-container .meta-box-sortables { min-height:50px; }
+
+div#pclicks-settings div.inside { padding-left:10px; margin-top:13px; margin-bottom:13px;}
+div#pclicks-settings .postbox { width: 100%; }
+
+div#pclicks-settings .wrap div.updated, div#pclicks-settings .wrap div.error { width:485px; padding-top:10px; padding-bottom:10px; }
+
+div#pclicks-settings .pcidinput input { margin-left: 65px;}
+
+div#pclicks-settings div.entry { margin-bottom: 20px; width: 630px; }
+div#pclicks-settings div.entry input.input-text, div#pclicks-settings div.entry select { float: right; text-align: right; }
+div#pclicks-settings div.entry input.input-text.api-key { width: 300px; }
+
+div#pclicks-settings .explanation { border:1px solid rgb(204, 204, 204); padding: 20px 5px 5px 5px; margin-top: 15px; display:none; font-size:11px; margin-left:103px; }
+
+div.pclicks-inside { margin: 0 10px 0 10px; }
+
+div.pclicks-inside span.label, div.pclicks-inside span.number { color: #21759B; }
+div.pclicks-inside span.label { font-size: 12px; }
+div.pclicks-inside span.number { font-size: 18px; font-family: Georgia,"Times New Roman","Bitstream Charter",Times,serif }
+
+div.pclicks-float-right { float: right; }
+div.pclicks-float-right span { font-size: 10px; }
+
+div#pclicks-dashboard-footer { height: 35px; }
+
+div.pclics-apikey-error { margin: 200px; text-align: center; }
+div.pclics-apikey-error span { margin: 0 auto 0 auto; }
+
+table.pclicks-table td.right-aligned { text-align: right; }
